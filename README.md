@@ -4,4 +4,4 @@
 
 [Кондуит]()
 
-[Распределение по проектам]()
+[Распределение по проектам](https://docs.google.com/spreadsheets/d/1xeEqwI0cFHh2yYPohM6i8j57llVZBQ0uiFibuWjlwGw/edit#gid=0)
