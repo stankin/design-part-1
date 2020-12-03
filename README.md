@@ -11,4 +11,14 @@
 Списки групп для регистрации отчетов о лабораторных работах: 
 * [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) 
 * [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) 
-* [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) 
+* [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
+
+Список целевых страниц (landing pages) публичных проектов:
+* [x] [Калькулятор расчёта эффекта от автоматизации](https://github.com/stankin/oop-app/tree/master/EffectsCalc)
+* [x] [Калькулятор затрат на разработку программных средств](https://github.com/stankin/oop-app/tree/master/milenchiki)
+* [x] [Библиотека работы с данными калькулятора затрат на разработку программных средств](https://github.com/stankin/oop-model/tree/master/practice_team)
+* [x] [Библиотека поддержки конечных автоматов](https://github.com/stankin/oop-stat/tree/master/2xApple)
+* [x] [Библиотека генераторов случайных чисел](https://github.com/stankin/oop-stat/tree/master/stohastic)
+* [x] [Пересмотр плана дисциплины на весенний семестр](https://github.com/stankin/design-part-2)
+* [ ] [Библиотека работы с данными для ABC/XYZ-анализа]()
+* [ ] [studyNetwork]()
