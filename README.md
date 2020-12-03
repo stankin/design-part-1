@@ -21,4 +21,4 @@
 * [x] [Библиотека генераторов случайных чисел](https://github.com/stankin/oop-stat/tree/master/stohastic)
 * [x] [Пересмотр плана дисциплины на весенний семестр](https://github.com/stankin/design-part-2)
 * [ ] [Библиотека работы с данными для ABC/XYZ-анализа]()
-* [ ] [studyNetwork]()
+* [ ] [Библиотека работы с данными постов социальной сети](https://github.com/monpase007/Praktika)
