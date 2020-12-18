@@ -22,4 +22,3 @@
 * [x] [Пересмотр плана дисциплины на весенний семестр](https://github.com/stankin/design-part-2)
 * [x] [Разработка библиотеки работы с данными постов](https://github.com/monpase007/Praktika)
 * [x] [Библиотека работы с данными для ABC/XYZ-анализа](https://github.com/PQlavka/stankin-SCRYAM/)
-
