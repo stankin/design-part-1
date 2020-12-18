@@ -20,5 +20,5 @@
 * [x] [Библиотека поддержки конечных автоматов](https://github.com/stankin/oop-stat/tree/master/2xApple)
 * [x] [Библиотека генераторов случайных чисел](https://github.com/stankin/oop-stat/tree/master/stohastic)
 * [x] [Пересмотр плана дисциплины на весенний семестр](https://github.com/stankin/design-part-2)
-* [ ] [Библиотека работы с данными для ABC/XYZ-анализа]()
-* [ ] [Библиотека работы с данными постов социальной сети](https://github.com/monpase007/Praktika)
+* [x] [Разработка библиотеки работы с данными постов](https://github.com/monpase007/Praktika)
+* [x] [Библиотека работы с данными для ABC/XYZ-анализа](https://github.com/PQlavka/stankin-SCRYAM/)
