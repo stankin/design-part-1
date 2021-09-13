@@ -8,13 +8,7 @@
 
 ⚠️ [Распределение по проектам](https://docs.google.com/spreadsheets/d/1eRRHhjdBd3hSfFsSDqPe2wvHsBamxS_gGKK7vwlGy20/edit?usp=sharing) [👣](https://docs.google.com/spreadsheets/d/1xeEqwI0cFHh2yYPohM6i8j57llVZBQ0uiFibuWjlwGw/edit#gid=0)
 
-Списки групп для регистрации отчетов о лабораторных работах: 
-* ⚠️ [ИДБ-18-05](https://github.com/stankin/design-part-1/wiki/list-idb-18-05) 
-* ⚠️ [ИДБ-18-06](https://github.com/stankin/design-part-1/wiki/list-idb-18-06) 
-* ⚠️ [ИДБ-18-07](https://github.com/stankin/design-part-1/wiki/list-idb-18-07)
-* ⚠️ [ИДБ-18-08](https://github.com/stankin/design-part-1/wiki/list-idb-18-08)
-
-Список целевых страниц ([landing pages](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) публичных проектов:
+⚠️ Список целевых страниц ([landing pages](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) публичных проектов:
 * [x] [Калькулятор расчёта эффекта от автоматизации 👣](https://github.com/stankin/oop-app/tree/master/EffectsCalc)
 * [x] [Калькулятор затрат на разработку программных средств 👣](https://github.com/stankin/oop-app/tree/master/milenchiki)
 * [x] [Библиотека работы с данными калькулятора затрат на разработку программных средств 👣](https://github.com/stankin/oop-model/tree/master/practice_team)
