@@ -6,7 +6,7 @@
 
 ✅ [Подключиться к команде Microsoft Teams](https://teams.microsoft.com/l/team/19%3a3j5VmVBBVEdSkyKXdt2fHiyVF_J_QbnIbQkjXcEz3501%40thread.tacv2/conversations?groupId=10a5bf25-5865-486b-8bea-2dd74dc66219&tenantId=fc6821dc-cc93-4bf0-bdd7-a278d6dba3ea)
 
-⚠️ [Распределение по проектам](https://docs.google.com/spreadsheets/d/1eRRHhjdBd3hSfFsSDqPe2wvHsBamxS_gGKK7vwlGy20/edit?usp=sharing) [👣](https://docs.google.com/spreadsheets/d/1xeEqwI0cFHh2yYPohM6i8j57llVZBQ0uiFibuWjlwGw/edit#gid=0)
+✅ [Распределение по проектам](https://docs.google.com/spreadsheets/d/1eRRHhjdBd3hSfFsSDqPe2wvHsBamxS_gGKK7vwlGy20/edit?usp=sharing) [👣](https://docs.google.com/spreadsheets/d/1xeEqwI0cFHh2yYPohM6i8j57llVZBQ0uiFibuWjlwGw/edit#gid=0)
 
 ⚠️ Список целевых страниц ([landing pages](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) публичных проектов:
 * [x] [Калькулятор расчёта эффекта от автоматизации 👣](https://github.com/stankin/oop-app/tree/master/EffectsCalc)
