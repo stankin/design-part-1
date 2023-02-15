@@ -65,4 +65,4 @@
 * Оформление результатов лабораторных 1-6 в виде законченного документа
 * Аргументированные выводы об актуальности и экономической целесообразности проекта
 
-✅ [Кондуит]() [👣](https://docs.google.com/spreadsheets/d/1RzC8UGs5BOLfuqu_TrQMsynlbSCbhmbmH8lqjVV-p3M/edit?usp=sharing)
+✅ [Кондуит](https://docs.google.com/spreadsheets/d/1zxpSasUN94X0FpAj3xUZiz77TuOo71I1Xe3po_2b4q0/edit#gid=1451005473) [👣](https://docs.google.com/spreadsheets/d/1RzC8UGs5BOLfuqu_TrQMsynlbSCbhmbmH8lqjVV-p3M/edit?usp=sharing)
