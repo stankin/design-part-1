@@ -31,8 +31,8 @@
     * [Лекция 16.](https://github.com/stankin/design-part-1/wiki/lecture16) Архитектурные ограничения на тестирование и испытания.
 
 ✅ План семинаров:
-1. [Целеполагание в анализе, проектировании, проектах](https://github.com/stankin/design-part-1/wiki/sem1)
-2. [Методы семиотики в проектировании](https://github.com/stankin/design-part-1/wiki/sem2)
+1. [Целеполагание в анализе, проектировании, проектах](https://github.com/stankin/design-part-1/wiki/sem1) [📃](https://edu.stankin.ru/mod/assign/view.php?id=360583)
+2. [Методы семиотики в проектировании](https://github.com/stankin/design-part-1/wiki/sem2) [📃](https://edu.stankin.ru/mod/assign/view.php?id=360585)
 3. [Понятие паттерна проектирования и цикл PDCA](https://github.com/stankin/design-part-2/wiki/sem2)
 4. [Паттерны в анализе и выявлении проблем](https://github.com/stankin/design-part-2/wiki/sem3), [антипаттерны](https://github.com/stankin/design-part-2/wiki/sem4)
 
