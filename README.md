@@ -54,7 +54,7 @@
 
 #### Модуль 2
 
-* Лабораторная 4 
+* [Лабораторная 4](https://github.com/stankin/design-part-1/wiki/lab4-bpmn) 
 Разработка событийно-ролевой модели обработки данных
 [✋](https://github.com/stankin/design-part-2/wiki/lecture03)
 [🔍](https://stormbpmn.com/app/diagram/5f266fd2-ec75-431a-b47b-a21ee9065a75)
