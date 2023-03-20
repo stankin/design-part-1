@@ -78,4 +78,5 @@
 
 Оценка за экзамен носит интегрированный характер, в первую очередь учитываются результаты модулей и курсового проекта.
 
-✅ [Кондуит](https://docs.google.com/spreadsheets/d/1zxpSasUN94X0FpAj3xUZiz77TuOo71I1Xe3po_2b4q0/edit#gid=1451005473) [👣](https://docs.google.com/spreadsheets/d/1RzC8UGs5BOLfuqu_TrQMsynlbSCbhmbmH8lqjVV-p3M/edit?usp=sharing)
+✅ [Кондуит](https://docs.google.com/spreadsheets/d/1zxpSasUN94X0FpAj3xUZiz77TuOo71I1Xe3po_2b4q0/edit#gid=1451005473) [👣](https://docs.google.com/spreadsheets/d/1RzC8UGs5BOLfuqu_TrQMsynlbSCbhmbmH8lqjVV-p3M/edit?usp=sharing) 
+[👣](https://docs.google.com/spreadsheets/d/16g3jpRQDN3BdTuhRHKCbeM7tw3x-G1Yr0rigUGDBti4/edit#gid=1451005473)
